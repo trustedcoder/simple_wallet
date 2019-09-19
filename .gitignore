@@ -1,0 +1,13 @@
+# OSX
+#
+.DS_Store
+.idea
+
+# virtual environment
+venv/
+
+# chain
+secure_wallet.db
+
+#flask script
+migrations/
